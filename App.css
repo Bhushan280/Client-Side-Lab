@@ -1,0 +1,19 @@
+.container {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+div > div {
+  margin: 5px;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #eee;
+}
+
+button {
+  margin-left: 10px;
+  padding: 5px 10px;
+}
